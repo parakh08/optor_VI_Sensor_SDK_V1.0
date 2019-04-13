@@ -1,0 +1,6 @@
+devel_space: /home/carry/optor_vi-stereo-v1/optor_VI_Sensor_SDK_V1.0/ROS/optor_stereo_visensor/devel
+install: false
+install_space: /home/carry/optor_vi-stereo-v1/optor_VI_Sensor_SDK_V1.0/ROS/optor_stereo_visensor/install
+profile: default
+source_space: /home/carry/optor_vi-stereo-v1/optor_VI_Sensor_SDK_V1.0/ROS/optor_stereo_visensor/src
+workspace: /home/carry/optor_vi-stereo-v1/optor_VI_Sensor_SDK_V1.0/ROS/optor_stereo_visensor
